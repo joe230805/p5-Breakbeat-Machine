@@ -1,0 +1,22 @@
+html, body {
+  
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  background-image: url("images/Win95.png");
+  background-size: cover;  
+  background-repeat: no-repeat;
+
+}
+body{
+  margin-top: 0%;
+}
+canvas {
+  display: block;
+}
+
+.buttSpace {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
